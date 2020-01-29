@@ -15,5 +15,13 @@
   },
   "devDependencies": {
     "nodemon": "^2.0.2"
-  }
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/saeeds/devcamper_api.git"
+  },
+  "bugs": {
+    "url": "https://github.com/saeeds/devcamper_api/issues"
+  },
+  "homepage": "https://github.com/saeeds/devcamper_api#readme"
 }
